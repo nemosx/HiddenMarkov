@@ -1,4 +1,4 @@
-#Hidden Markov Model
+# Hidden Markov Model
 
 In this problem, we assume that the weather is a markov process governed by the following transition probabilities:
 
